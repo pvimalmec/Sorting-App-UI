@@ -17,11 +17,10 @@ Installation Procedure:
 
 BEFORE YOU INSTALL: please read the prerequisites
 
-
-
 Step 1. After Cloning/Download the project, Follow basics steps to inculde angular CLi
 
 npm install -g @angular/cli
+
 npm install
 
 Step 2. Once the above step is complete, please start the server by Running below comments
